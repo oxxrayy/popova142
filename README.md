@@ -8,5 +8,5 @@
 * [Нейросеть](https://user-images.githubusercontent.com/114632258/197323136-85887533-005e-4662-b48a-3c61f61e7ad8.png) -  нейросеть для сложения и умножения - скриншот 
 * [Алгоритм Хэминга.txt](https://github.com/oxxrayy/popova142/files/9843692/default.txt) - схема Горнера (не доделано) - Python
 * [изменённая таблица со счетами за электричество для соответствия реальных затрат ожидаемым в Excel](https://user-images.githubusercontent.com/114632258/197323558-f4fd869f-cddb-48f0-b586-90ad784f583a.png) - изменённая таблица со счетами за электричество для соответствия реальных затрат ожидаемым в Excel - скриншот
-[логика пай.txt](https://github.com/oxxrayy/popova142/files/9843707/default.txt) - вычисление значений a, b и c, при которых значение логического выражения (A & не B -> C) <-> A равно 0 - Python
-[Np_в_N10.py.txt](https://github.com/oxxrayy/popova142/files/9843712/Np_._N10.py.txt) - перевод числа из указываемой СС в десятичную - Python
+* [логика пай.txt](https://github.com/oxxrayy/popova142/files/9843707/default.txt) - вычисление значений a, b и c, при которых значение логического выражения (A & не B -> C) <-> A равно 0 - Python
+* [Np_в_N10.py.txt](https://github.com/oxxrayy/popova142/files/9843712/Np_._N10.py.txt) - перевод числа из указываемой СС в десятичную - Python

@@ -5,4 +5,4 @@
 [Логика.xlsx](https://github.com/oxxrayy/popova142/files/9791381/default.xlsx)
 [cc.txt](https://github.com/oxxrayy/popova142/files/9843668/cc.txt)
 [таблица умноения.xlsx](https://github.com/oxxrayy/popova142/files/9843674/default.xlsx)
-![Нейросеть](https://user-images.githubusercontent.com/114632258/197323136-85887533-005e-4662-b48a-3c61f61e7ad8.png)
+[Нейросеть](https://user-images.githubusercontent.com/114632258/197323136-85887533-005e-4662-b48a-3c61f61e7ad8.png)

@@ -12,4 +12,4 @@
 * [Np_в_N10.py.py](https://github.com/oxxrayy/popova142/files/9843712/Np_._N10.py.py) - перевод числа из указываемой СС в десятичную - Python
 * [схема Горнера.py](https://github.com/oxxrayy/popova142/files/9843714/default.py) - схема Горнера (не доделано) - Python
 
-$$ (A\& B)\&  C = A \& (B \& C) $$
+$$(A \& B) \&  C = A \& (B \& C)$$

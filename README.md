@@ -13,3 +13,9 @@
 * [схема Горнера.py](https://github.com/oxxrayy/popova142/files/9843714/default.py) - схема Горнера (не доделано) - Python
 
 $$(A \wedge  B \wedge   C = A \wedge  (B \wedge  C)$$
+
+$$\bar{E}_1^{2}=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}} + \alpha_1^{\frac{1}{2}} + \beta_1^{\frac{2}{3}}$$
+
+$$A=UIt+I^{2}Rt=\frac{U^{2}}{R}t$$
+
+$$F=G\frac{m_{1}m_{2}}{R^{2}}$$

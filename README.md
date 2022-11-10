@@ -20,4 +20,8 @@ $$\bar{E}_1^{2}=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}} + \alpha_1^{\frac{1}{2}} + 
 
 $$A=UIt+I^{2}Rt=\frac{U^{2}}{R}t$$
 
+![lagrida_latex_editor (5)](https://user-images.githubusercontent.com/114632258/200982688-dd5f9c01-8a5a-421f-8318-0d769df7af47.png)
+
 $$F=G\frac{m_{1}m_{2}}{R^{2}}$$
+
+![lagrida_latex_editor (6)](https://user-images.githubusercontent.com/114632258/200982785-e51bcb84-0c91-4c8b-92e7-f0850706134b.png)

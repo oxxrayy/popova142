@@ -16,6 +16,8 @@ $$(A \wedge  B \wedge   C = A \wedge  (B \wedge  C)$$
 
 $$\bar{E}_1^{2}=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}} + \alpha_1^{\frac{1}{2}} + \beta_1^{\frac{2}{3}}$$
 
+![lagrida_latex_editor (4)](https://user-images.githubusercontent.com/114632258/200982554-1b2c3ed9-a0fc-49fc-8f84-d38310d0ec43.png)
+
 $$A=UIt+I^{2}Rt=\frac{U^{2}}{R}t$$
 
 $$F=G\frac{m_{1}m_{2}}{R^{2}}$$

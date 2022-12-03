@@ -36,4 +36,3 @@ def quiz():
             exit()
     
 quiz()
-quiz()

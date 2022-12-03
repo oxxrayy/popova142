@@ -1,9 +1,9 @@
 def answ(ans):
     if ans == '3':
         f +=1
-        print("правильный ответ")
+        print("забавно")
     else:
-        print("неправильный ответ")
+        print("потешно")
 
 
 def quiz():

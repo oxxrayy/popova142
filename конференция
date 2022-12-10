@@ -1,0 +1,13 @@
+print(input ('Ведите текст '))
+
+def f(a,b):
+    sum = a+b
+    return sum
+print (f(int(input('Введите число')),int(input('Введите число'))))
+
+def f(a):
+    b=a
+    return b
+a = 'Попова'
+b=f(a)
+print(b   [::-1])

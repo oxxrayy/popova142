@@ -27,7 +27,6 @@ $$F=G\frac{m_{1}m_{2}}{R^{2}}$$
 ![lagrida_latex_editor (6)](https://user-images.githubusercontent.com/114632258/200982785-e51bcb84-0c91-4c8b-92e7-f0850706134b.png)
 
 ```mermaid 
-
     129 --> 128 : +1
     129 --> 65 : *2 
     128 --> 127 : +1

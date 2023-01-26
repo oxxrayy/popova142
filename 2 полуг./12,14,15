@@ -1,0 +1,22 @@
+'''sp = []
+for i in range (2, 1000):
+    if all (i%m!=0 for m in range (2,i)):
+        sp.append(i)
+print (sp)
+    
+sp =[]
+for x in range (1, 100):
+    if x in sp:
+        while 4*n+117
+        for i in range ()
+
+a='0123456789abcde'
+for x in a:
+    f=int (f'123{x}5',15)+int(f'1{x}233',15)
+    if f%14==0:
+        print (x,f//14)'''
+
+for A in range (1000):
+    if all((x%2==0)<=(x%3!=0) or (x+A>=100) for x in range (1,1000)):
+        print (A)
+        break
